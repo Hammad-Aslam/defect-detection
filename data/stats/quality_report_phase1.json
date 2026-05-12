@@ -1,0 +1,33 @@
+{
+  "mlflow_run_id": "3b3ecdf9b3cf4c0a8aad0d186ad7ccb6",
+  "phase": 1,
+  "original_total": 2688,
+  "processed_total": 4404,
+  "classes": [
+    "Blowhole",
+    "Break",
+    "Crack",
+    "Fray",
+    "Free",
+    "Uneven"
+  ],
+  "class_ids": {
+    "Blowhole": 0,
+    "Break": 1,
+    "Crack": 2,
+    "Fray": 3,
+    "Free": 4,
+    "Uneven": 5
+  },
+  "imbalance_before": 29.8,
+  "imbalance_after": 3.8,
+  "target_size": [
+    640,
+    640
+  ],
+  "split": {
+    "train": 3082,
+    "val": 880,
+    "test": 442
+  }
+}
